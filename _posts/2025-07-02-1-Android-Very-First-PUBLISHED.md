@@ -1,5 +1,5 @@
 ---
-title: "Android version: very first version published"
+title: "Android version: Very first version published"
 date: "2025-07-02"
 ---
 
