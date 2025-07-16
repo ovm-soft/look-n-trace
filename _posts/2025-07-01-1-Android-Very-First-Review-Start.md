@@ -1,5 +1,5 @@
 ---
-title: "Android version: very first version Google review start"
+title: "Android version: Very first version Google review start"
 date: "2025-07-01"
 ---
 
