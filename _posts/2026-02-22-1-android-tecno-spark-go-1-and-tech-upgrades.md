@@ -1,5 +1,5 @@
 ---
-title: "Android version: Addressed a rare, non-reproducible image selection error along with other technical improvements"
+title: "Android version: Possibly addressed a rare, non-reproducible image selection error along with other technical improvements"
 date: "2026-02-22"
 ---
 
