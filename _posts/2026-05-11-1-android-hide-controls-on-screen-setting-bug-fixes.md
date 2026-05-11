@@ -1,5 +1,5 @@
 ---
-title: "Android version: ability to hide controls to increase drawing space, setting to enable/disable on-screen drawing, bug fixes"
+title: "Android version: Ability to hide controls to increase drawing space, setting to enable/disable on-screen drawing, bug fixes"
 date: "2026-05-11"
 ---
 
